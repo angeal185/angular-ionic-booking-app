@@ -1,0 +1,18 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "description": "app: ionic booking app",
+  "devDependencies": {
+    "bower": "^1.3.3",
+    "shelljs": "^0.3.0"
+  },
+  "cordovaPlugins": [
+    "cordova-plugin-whitelist",
+    "cordova-plugin-statusbar",
+    "cordova-plugin-console",
+    "cordova-plugin-device",
+    "cordova-plugin-splashscreen",
+    "ionic-plugin-keyboard"
+  ],
+  "cordovaPlatforms": []
+}
